@@ -45,3 +45,8 @@
 	```
 - "app.js" dosyasına yazmış olduğunuz "getData" isimli fonksiyonu "import" edin.
 - Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
+
+
+#### ``  Result `` :
+
+![1](./images/1.png)
