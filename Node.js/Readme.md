@@ -47,6 +47,6 @@
 - Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
 
 
-#### ``  Result `` :
+#### ``  Result ``  :
 
 ![1](./images/1.png)
