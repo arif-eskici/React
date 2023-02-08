@@ -4,7 +4,6 @@ import Header from "../Header";
 
 test("Header render", () => {
     render(<Header/>);
-
     const headerDom = screen.getByText(/Emoji Search/i);
     expect(headerDom).toBeInTheDocument();
 })
