@@ -6,7 +6,7 @@ import Footer from './footer/Footer';
 function Contacts() {
 
     const [contacts, setContacts] = useState([]);
-    const [situation, setSituation]=useState("All")
+    const [situation, setSituation]=useState("All");
     
   return (
     <div>
