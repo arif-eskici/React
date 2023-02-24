@@ -11,11 +11,19 @@
 - After adding our tasks to the To do list :
 
   - `All : `
+
     ![1](./images/1.png)
+
   - `Active : `
+
     ![2](./images/2.png)
+
   - `Completed : `
+
     ![3](./images/3.png)
+
   - `some fine details : `
+
     ![4](./images/4.png)
+
     ![5](./images/5.png)
